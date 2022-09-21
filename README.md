@@ -1,2 +1,2 @@
 # automation
-- just automaing everyday things
+### just automating everyday things
